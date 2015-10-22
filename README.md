@@ -11,3 +11,11 @@ Unity 4.6, and Adobe Photoshop CS6.
 This Project took a month of full time coding and debugging, all from ground zero. It was a huge learning experience 
 and I had a lot of fun working on it, watching it work on my friends’ devices and getting constant feedback concerning
 the game-play.
+
+<p>
+    <a href="http://www.malcolmmaima.com/wp-content/uploads/2015/06/Capture.jpg">
+
+    <img class=" wp-image-2403 alignleft" width="749" height="421" alt="Capture" src="http://www.malcolmmaima.com/wp-content/uploads/2015/06/Capture-1024x576.jpg"></img>
+
+</a>
+</p>
