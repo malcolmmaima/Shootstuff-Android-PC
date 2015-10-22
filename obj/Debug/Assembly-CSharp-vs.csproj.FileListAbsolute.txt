@@ -1,0 +1,12 @@
+C:\Users\Acer\Documents\Shoot-Stuff\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\Acer\Documents\Shoot-Stuff\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Acer\Documents\Shoot-Stuff\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Acer\Documents\Shoot-Stuff\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Acer\Documents\Shoot-Stuff\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Acer\Documents\Shoot-Stuff\Temp\bin\Debug\nunit.framework.dll
+C:\Users\Acer\Documents\Shoot-Stuff\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Acer\Documents\Shoot-Stuff\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\Acer\Documents\Shoot-Stuff\obj\Debug\Assembly-CSharp-vs.csprojResolveAssemblyReference.cache
+C:\Users\Acer\Documents\Shoot-Stuff\obj\Debug\Assembly-CSharp.dll
+C:\Users\Acer\Documents\Shoot-Stuff\obj\Debug\Assembly-CSharp.pdb
+C:\Users\Acer\Documents\Shoot-Stuff\Temp\bin\Debug\UnityEngine.UI.dll
