@@ -13,9 +13,8 @@ and I had a lot of fun working on it, watching it work on my friends’ devices 
 the game-play.
 
 <p>
-    <a href="http://www.malcolmmaima.com/wp-content/uploads/2015/06/Capture.jpg">
-
-    <img class=" wp-image-2403 alignleft" width="749" height="421" alt="Capture" src="http://www.malcolmmaima.com/wp-content/uploads/2015/06/Capture-1024x576.jpg"></img>
+    <a href="http://shootstuff.malcolmmaima.com/">
+    <img class=" wp-image-2403 alignleft" width="800" height="421" alt="Capture" src="http://www.malcolmmaima.com/wp-content/uploads/2015/06/Capture-1024x576.jpg"></img>
 
 </a>
 </p>
