@@ -17,7 +17,7 @@ the game-play.
     <img class=" wp-image-2403 alignleft" width="1000" height="421" alt="Capture" src="http://www.malcolmmaima.com/wp-content/uploads/2015/06/Capture-1024x576.jpg"></img>
 
 </a>
-</p>
+
 <a href="https://www.instagram.com/malcolmmiyare" target="_blank"><img class="alignleft wp-image-2418 size-full" src="http://www.malcolmmaima.com/wp-content/uploads/2014/12/Instagram.png" alt="Instagram" width="35" height="35"></a>
 
 <a href="https://www.facebook.com/malcolmmaima" target="_blank"><img class="alignleft wp-image-2421 size-full" src="http://www.malcolmmaima.com/wp-content/uploads/2014/12/fbicon.png" alt="fbicon" width="35" height="35"></a>
@@ -26,3 +26,4 @@ the game-play.
 
 <a href="https://ke.linkedin.com/in/malcolmmaima" target="_blank"><img class="alignleft wp-image-2419 size-full" src="http://www.malcolmmaima.com/wp-content/uploads/2014/12/linkedinicon.png" alt="linkedinicon" width="35" height="35"></a>
 
+</p>
