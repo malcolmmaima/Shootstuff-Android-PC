@@ -18,3 +18,11 @@ the game-play.
 
 </a>
 </p>
+<a href="https://www.instagram.com/malcolmmiyare" target="_blank"><img class="alignleft wp-image-2418 size-full" src="http://www.malcolmmaima.com/wp-content/uploads/2014/12/Instagram.png" alt="Instagram" width="35" height="35"></a>
+
+<a href="https://www.facebook.com/malcolmmaima" target="_blank"><img class="alignleft wp-image-2421 size-full" src="http://www.malcolmmaima.com/wp-content/uploads/2014/12/fbicon.png" alt="fbicon" width="35" height="35"></a>
+
+<a href="https://twitter.com/malcolmmaima" target="_blank"><img class="alignleft wp-image-2420 size-full" src="http://www.malcolmmaima.com/wp-content/uploads/2014/12/twittericon.png" alt="twittericon" width="35" height="35"></a>
+
+<a href="https://ke.linkedin.com/in/malcolmmaima" target="_blank"><img class="alignleft wp-image-2419 size-full" src="http://www.malcolmmaima.com/wp-content/uploads/2014/12/linkedinicon.png" alt="linkedinicon" width="35" height="35"></a>
+
