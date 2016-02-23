@@ -14,7 +14,7 @@ the game-play.
 
 Hit me up on:
 <p>
-<a href="https://www.instagram.com/malcolmmiyare" target="_blank"><img class="alignleft wp-image-2418 size-full" src="http://www.malcolmmaima.com/wp-content/uploads/2014/12/Instagram.png" alt="Instagram" width="35" height="35"></a>
+<a href="https://www.instagram.com/malcolmmaima" target="_blank"><img class="alignleft wp-image-2418 size-full" src="http://www.malcolmmaima.com/wp-content/uploads/2014/12/Instagram.png" alt="Instagram" width="35" height="35"></a>
 
 <a href="https://www.facebook.com/malcolmmaima" target="_blank"><img class="alignleft wp-image-2421 size-full" src="http://www.malcolmmaima.com/wp-content/uploads/2014/12/fbicon.png" alt="fbicon" width="35" height="35"></a>
 
