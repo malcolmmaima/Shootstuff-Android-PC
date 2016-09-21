@@ -10,6 +10,8 @@ This Project took a month of full time coding and debugging, all from ground zer
 and I had a lot of fun working on it, watching it work on my friends’ devices and getting constant feedback concerning
 the game-play.
 
+Open https://github.com/malcolmmaima/Shootstuff-Android-PC/tree/master/Apk%20%2B%20Exe to access the development build
+
 # How to play on Android 
 
 player taps on screen countless times to shoot, drag the mini spaceship to move player up and down
