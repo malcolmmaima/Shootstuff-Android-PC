@@ -17,7 +17,7 @@ public class pancam : MonoBehaviour
 
     void OnGUI()
     {
-        gui.guiText.text = "Score : " + ((int)(playerscore * 10)).ToString();
+        gui.GetComponent<GUIText>().text = "Score : " + ((int)(playerscore * 10)).ToString();
     }
 
     public void IncreaseScore(int amount)
