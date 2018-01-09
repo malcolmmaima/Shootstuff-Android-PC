@@ -26,7 +26,6 @@ Tap trackpad or left click mouse on game screen to shoot, arrows to move player 
     <img class=" wp-image-2403 alignleft" width="1000" height="421" alt="Capture" src="https://raw.githubusercontent.com/malcolmmaima/Shootstuff-Android-PC/master/Screenshot-1.jpeg"></img>
 
 </a>
-
     <a href="http://www.malcolmmaima.com/">
     <img class=" wp-image-2403 alignleft" width="1000" height="421" alt="Capture" src="https://raw.githubusercontent.com/malcolmmaima/Shootstuff-Android-PC/master/Screenshot-2.jpeg"></img>
 
